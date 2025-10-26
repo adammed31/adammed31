@@ -13,8 +13,8 @@
 
 ### 💼 Professional Experience
 
-**Data Science Intern (6-month Internship)**  
-📍 *Free – Paris, France*  
+**Data Science (6-month Internship)**  
+📍 *[Free](https://en.wikipedia.org/wiki/Free_(ISP)) – Paris, France*  
 🗓️ *Apr 2025 – Sep 2025*  
 
 - Automated technical intervention reports summarization using an **LLM**, including prompt engineering to generate structured summaries from raw technician data.  
