@@ -74,7 +74,7 @@
 
 **IT Skills:** Python, R, SQL, Git, ClickHouse, Docker, Unix  
 **Data Science & ML Frameworks:** Scikit-Learn, TensorFlow, PyTorch  
-**Languages:** French (native), English (B2, TOEIC 875/990), Classical Arabic (basic knowledge)
+**Languages:** French (native), English (C1, advanced), Classical Arabic (basic knowledge)
 
 ---
 ### 📫 How to Reach Me
