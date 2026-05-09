@@ -35,7 +35,13 @@
 
 ---
 
-### 📊 Academic Projects
+
+### 📊 Projects
+
+**RAG System — Wikipedia + arXiv Scientific Q&A** 
+- Built a 100% local RAG pipeline over 21 000+ chunks (Wikipedia + arXiv) with hybrid retrieval — LangChain FAISS (dense) + BM25Retriever (sparse) fused via EnsembleRetriever and reranked with a CrossEncoder.
+- Implemented 4 advanced retrieval strategies: HyDE, Query Decomposition, RAG Fusion, and Query Routing — all powered by local LLMs via Ollama (LLaMA 3.1, Qwen 2.5, Mistral).
+- Developed a Streamlit interface with token-by-token streaming, side-by-side model comparison, query cache, and source attribution.
 
 **Deep Learning Project — Who Painted This Painting?**  
 📄 *[Report/Code on GitHub](https://github.com/adammed31/High_Dimensional_and_Deep_Learning_projects/tree/main/project_CNN)*  
