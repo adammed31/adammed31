@@ -39,6 +39,7 @@
 ### 📊 Projects
 
 **RAG System — Wikipedia + arXiv Scientific Q&A** 
+
 📄 *[Report/Code on GitHub](https://github.com/adammed31/RAG-wikipedia_arXiv)*
 
 - Built a 100% local RAG pipeline over 21 000+ chunks (Wikipedia + arXiv) with hybrid retrieval — LangChain FAISS (dense) + BM25Retriever (sparse) fused via EnsembleRetriever and reranked with a CrossEncoder.
