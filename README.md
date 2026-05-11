@@ -42,8 +42,8 @@
 📄 *[Report/Code on GitHub](https://github.com/adammed31/RAG-wikipedia_arXiv)*  
 
 - Built a RAG pipeline over 21 000+ chunks (Wikipedia + arXiv) with hybrid retrieval — LangChain FAISS (dense) + BM25Retriever (sparse) fused via EnsembleRetriever and reranked with a CrossEncoder.
-- Implemented 4 advanced retrieval strategies: HyDE, Query Decomposition, RAG Fusion and rule-based Query Routing — LLM-powered via Ollama (LLaMA 3.1, Qwen 2.5, Mistral).
-- Developed a Streamlit interface with token-by-token streaming, side-by-side model comparison, query cache and source attribution.
+- Implemented advanced retrieval strategies (HyDE, query decomposition, RAG fusion via Ollama LLMs, and rule-based query routing) using LangChain and Ollama (LLaMA 3.1, Qwen 2.5, Mistral).
+- Developed a Streamlit interface with real-time token streaming, side-by-side model comparison, and query caching.
 
 **Deep Learning Project — Who Painted This Painting?**  
 📄 *[Report/Code on GitHub](https://github.com/adammed31/High_Dimensional_and_Deep_Learning_projects/tree/main/project_CNN)*  
