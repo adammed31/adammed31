@@ -38,12 +38,21 @@
 
 ### 📊 Projects
 
+**ML Pipeline — Supervised Learning Automation**  
+📄 *[Report/Code on GitHub](https://github.com/adammed31/ml-pipeline)*  
+
+- Automated preprocessing, model training and hyperparameter tuning across multiple models (Random Forest, XGBoost, LightGBM, Logistic/Linear Regression, Voting ensemble).
+- Integrated MLflow experiment tracking, SHAP explainability, adversarial validation, and data drift detection (KS test, Chi-square, PSI) with automated reporting.
+- Deployed as a FastAPI REST API with a Streamlit dashboard, fully containerized using Docker.
+
+
 **RAG System — Wikipedia + arXiv Scientific Q&A**  
 📄 *[Report/Code on GitHub](https://github.com/adammed31/RAG-wikipedia_arXiv)*  
 
 - Built a RAG pipeline over 21 000+ chunks (Wikipedia + arXiv) with hybrid retrieval — LangChain FAISS (dense) + BM25Retriever (sparse) fused via EnsembleRetriever and reranked with a CrossEncoder.
 - Implemented advanced retrieval strategies (HyDE, query decomposition, RAG fusion via Ollama LLMs, and rule-based query routing) using LangChain and Ollama (LLaMA 3.1, Qwen 2.5, Mistral).
 - Developed a Streamlit interface with real-time token streaming, side-by-side model comparison, and query caching.
+
 
 **Deep Learning Project — Who Painted This Painting?**  
 📄 *[Report/Code on GitHub](https://github.com/adammed31/High_Dimensional_and_Deep_Learning_projects/tree/main/project_CNN)*  
