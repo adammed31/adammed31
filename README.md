@@ -7,7 +7,7 @@
 📍 *Toulouse, France*  
 🗓️ *2020 – 2025*  
 
-- **Master’s Degree in Engineering**, major in **Applied Mathematics**.  
+- **Master’s Degree in Engineering**, major in **Applied Mathematics & Data Science**.  
 
 ---
 
