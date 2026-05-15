@@ -25,7 +25,7 @@
 
 
 **Machine Learning Researcher (4-month Internship)**  
-📍 *[KTH Royal Institute of Technology](https://en.wikipedia.org/wiki/KTH\_Royal\_Institute\_of\_Technology) – Stockholm, Sweden*
+📍 *[KTH Royal Institute of Technology](https://en.wikipedia.org/wiki/KTH\_Royal\_Institute\_of\_Technology) – Stockholm, Sweden*  
 🗓️ *June 2024 – Sep 2024*  
 
 - Applied **machine learning techniques** for **time series prediction** on building energy consumption data as part of the **HYPERGRID project**.  
