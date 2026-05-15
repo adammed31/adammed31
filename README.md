@@ -82,7 +82,7 @@
 ### 🚀 Skills
 
 **IT Skills:** Python, R, SQL, Git, ClickHouse, Docker, Unix  
-**Data Science & ML Frameworks:** Scikit-Learn, Pandas, TensorFlow, PyTorch, LangChain, HuggingFace
+**Data Science & ML Frameworks:** Scikit-Learn, Pandas, TensorFlow, PyTorch, LangChain, HuggingFace  
 **Languages:** French (native), English (C1, advanced), Classical Arabic (basic knowledge)
 
 ---
